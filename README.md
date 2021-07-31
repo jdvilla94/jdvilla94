@@ -8,7 +8,7 @@ I am looking for a fulltime job developing apps.
 You can reach me best by emailing me at jdvilla43@gmail.com
 or by my phone number 6309130489
 
-Thank youu 
+Thank you
 
 
 
