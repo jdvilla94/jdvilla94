@@ -1,13 +1,12 @@
 Hello my name is Josue David Villanueva, but i go by JD for short.
-I attended DePaul University and graduated with a degree in computer sciece with a 
-concentration in software development. 
-I know how to program in various languages such as swift, python, html, css, and a bit of java.
-My passion lies in the web development,game development, block chain development, and UI/UX design.
+First generation college graduate from DePaul University. Obtained a Bachelor’s in Computer Science 
+with a concentration in Software Development. I am interested in an opportunity in UX Design. 
+Design is my passion.  Looking to pursue my Masters in Human Interaction.
 I am looking for a fulltime job developing or designing applications. 
 You can reach me best by emailing me at jdvilla43@gmail.com
-or by my phone number 6309130489
 
 Thank you
+
 
 
 
